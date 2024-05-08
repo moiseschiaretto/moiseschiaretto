@@ -39,18 +39,17 @@
       - API REST utilizando as requisições com os verbos HTTP (testes carga/load, estresse, volume).
 
   
-**- DevOps e DevSecOps**
+  **- DevOps e DevSecOps**
   
       - CI (Integração Contínua) e CD (Entrega Contínua).
 
       - Git (versionamento), Bitbucket (Soucetree).
 
 
-**- Metodologia Ágil Scrum (Kanban, Squad)**
+  **- Metodologia Ágil Scrum (Kanban, Squad)**
   
       - JIRA (Jql - query), Confluence.
 
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
 
-
-      
+  
