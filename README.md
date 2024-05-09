@@ -26,7 +26,8 @@
 
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
 
-| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/bd2f91c5-1d54-4225-bb09-378f85961152)   | ![18_TDD](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/6c3774ad-6a05-4f79-8329-abc1b02e237e)  | 
+| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![14_14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/d802e0b7-56a8-4b59-be88-00197bc785e2)
+ | ![18_TDD](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/6c3774ad-6a05-4f79-8329-abc1b02e237e)  | 
 
   
   **- Web (front-end):**
