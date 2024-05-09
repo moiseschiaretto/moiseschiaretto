@@ -4,8 +4,7 @@
     
     - Web (front-end), API REST (back-end), Mobile e Performance.
 
-| ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/bd2f91c5-1d54-4225-bb09-378f85961152)   | ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0)
- |
+| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/bd2f91c5-1d54-4225-bb09-378f85961152)   |
 
 
 
