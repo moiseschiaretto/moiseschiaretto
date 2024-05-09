@@ -7,7 +7,7 @@
 - UTFPR – Universidade Tecnológica Federal do Paraná.
 
 - Especialista em Tecnologia Java, TI (2007 - 2009, 380 horas)
-- 
+
 
 ![12_UTFPR](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/62bd0a69-81d2-4f2a-b383-62028b8b36d2)
 
@@ -16,7 +16,7 @@
 - FACET – Faculdade de Ciências e Tecnologia do Paraná.
 
 - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
-- 
+
 
 ![11_FACET](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/967a1b40-5034-4ccc-b476-f315e25af75c)
 
