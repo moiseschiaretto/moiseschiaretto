@@ -59,7 +59,8 @@
   
   **- Performance**
   
-      - JMeter, verbos HTTP, status code, arquivos CSV, parametrização de valores, API REST conversão Postman (Loadium, Code), Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
+      - JMeter, verbos HTTP, status code, arquivos CSV, parametrização de valores,
+      API REST conversão Postman (Loadium, Code), Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
   
       - Scripts de volume de acessos simultâneos de usuários (testes carga/load e estresse).
   
