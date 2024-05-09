@@ -7,6 +7,7 @@
     - UTFPR – Universidade Tecnológica Federal do Paraná.
     
     - Especialista em Tecnologia Java, TI (2007 - 2009, 380 horas)
+    
 
     - FACET – Faculdade de Ciências e Tecnologia do Paraná.
 
