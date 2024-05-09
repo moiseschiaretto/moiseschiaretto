@@ -11,25 +11,12 @@
 - Especialista em Tecnologia Java, TI (2007 - 2009, 380 horas)
 
 
-![12_UTFPR](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/62bd0a69-81d2-4f2a-b383-62028b8b36d2)
-
-
-
 - FACET – Faculdade de Ciências e Tecnologia do Paraná.
 
 - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
 
 
-![11_FACET](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/967a1b40-5034-4ccc-b476-f315e25af75c)
-
-
-
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
-
-![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/f5d95b14-8417-4309-ac43-b13b58d9c241)
-
-| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![18_TDD](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/6c3774ad-6a05-4f79-8329-abc1b02e237e)  | 
-
   
   **- Web (front-end):**
   
@@ -82,4 +69,8 @@
 
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
 
+
+![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/f5d95b14-8417-4309-ac43-b13b58d9c241)
+
+| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![18_TDD](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/6c3774ad-6a05-4f79-8329-abc1b02e237e)  | 
   
