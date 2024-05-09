@@ -2,6 +2,9 @@
 
 - Trabalho na área de QA há 15 anos, sendo 8 anos com automatização de testes Web (front-end), API REST (back-end), Mobile e Performance.
 
+![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/bd2f91c5-1d54-4225-bb09-378f85961152)
+
+
 ## Formação acadêmica:
 
 - UTFPR – Universidade Tecnológica Federal do Paraná.
