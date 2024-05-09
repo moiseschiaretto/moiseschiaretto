@@ -1,6 +1,18 @@
 ## Olá, meu nome é Moisés Chiaretto!
 
 - Trabalho na área de QA há 15 anos, sendo 8 anos com automatização de testes Web (front-end), API REST (back-end), Mobile e Performance.
+
+## Formação acadêmica:
+
+    - UTFPR – Universidade Tecnológica Federal do Paraná.
+    
+    - Especialista em Tecnologia Java, TI (2007 - 2009, 380 horas)
+
+    - FACET – Faculdade de Ciências e Tecnologia do Paraná.
+
+    - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
+
+## Experiência Profissional na Área de QA - Testes de Softwares
   
   **- Web (front-end):**
   
