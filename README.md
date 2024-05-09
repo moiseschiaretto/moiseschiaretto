@@ -6,6 +6,7 @@
 
 ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/bd2f91c5-1d54-4225-bb09-378f85961152)
 
+![Uploading 15_Piramide_Testes.png…]()
 
 ## Formação acadêmica:
 
