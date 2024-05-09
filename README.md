@@ -13,7 +13,7 @@
 
     - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
 
-## Experiência Profissional na Área de QA - Testes de Softwares
+## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
   
   **- Web (front-end):**
   
