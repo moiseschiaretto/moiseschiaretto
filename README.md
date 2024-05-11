@@ -1,8 +1,8 @@
 ## Olá, meu nome é Moisés Chiaretto!
 
-- Trabalho na área de QA há 15 anos, sendo 8 anos com automatização de testes.
+- Trabalho na área de QA há (quinze) 15 anos, sendo 8 (oito) anos com automatização de testes.
     
-    - Web (front-end), API REST (back-end), Mobile e Performance.
+    - API REST (back-end), Web (front-end), Mobile e Performance.
 
 ## Formação acadêmica:
 
@@ -18,7 +18,16 @@
 
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
   
-  **- Web (front-end):**
+  **- API REST (back-end):**
+  
+      - Postman com Javascript, JWT, CRUD, Verbos HTTP / Métodos (Get, Post, Put, Patch, Delete).
+  
+      - Spring Boot em Java, testes de APIs RESTful para garantir a qualidade do software.
+  
+      - API Rest com Rest Assured utilizando também Python e Cypress.
+
+
+   **- Web (front-end):**
   
       - BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
   
@@ -28,15 +37,8 @@
   
       - TDD com Python, a biblioteca Playwright e o codegen (inspetor), IDE Pycharm, Selenium WebDriver.
   
-      - ATDD - critérios de aceite dos requisitos do software.
-  
-  **- API REST (back-end):**
-  
-      - Postman com Javascript, JWT, CRUD, Verbos HTTP / Métodos (Get, Post, Put, Patch, Delete).
-  
-      - Spring Boot em Java, testes de APIs RESTful para garantir a qualidade do software.
-  
-      - API Rest com Rest Assured utilizando também Python e Cypress.
+      - ATDD - critérios de aceite dos requisitos do software.  
+
   
   **- Mobile**
   
@@ -45,6 +47,7 @@
       - Keyword-driven (Test Data Syntaxe).
   
       - Execução em Docker.
+
   
   **- Performance**
   
