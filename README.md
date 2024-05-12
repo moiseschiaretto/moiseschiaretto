@@ -73,7 +73,7 @@
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
 
 
-![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/f5d95b14-8417-4309-ac43-b13b58d9c241)
+| ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/f5d95b14-8417-4309-ac43-b13b58d9c241) | ![BDD_SEM_E_COM_FALHA](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/cc2f0670-e043-430d-976c-03797c1e1eed) |
 
 | ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![TDD_RGR_IMG_MENOR](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/273bf0df-2ff9-44b7-9cec-b34ce8c66b47) | 
   
