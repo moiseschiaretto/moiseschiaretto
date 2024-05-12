@@ -75,5 +75,5 @@
 
 ![14_QA_TESTER](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/f5d95b14-8417-4309-ac43-b13b58d9c241)
 
-| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![18_TDD](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/6c3774ad-6a05-4f79-8329-abc1b02e237e)  | 
+| ![16_Piramide_Testes](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/77eaa29e-7e22-4504-9bfe-ecc472f193a0) | ![TDD_RGR](https://github.com/moiseschiaretto/moiseschiaretto/assets/84775466/06214326-1ba0-4150-8126-1ba5dfd73502) | 
   
