@@ -31,11 +31,11 @@
   
       - BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
   
-      - TDD com Java, JUnit, TestNG, Apache Tomcat, Maven (“pom.xml”), IDE Eclipse, Selenium WebDriver.
+      - TDD com Java, JUnit, TestNG, Apache Tomcat, Maven (“pom.xml”), Selenium WebDriver, IDE Eclipse.
   
       - TDD com JavaScript, Cypress, Node.js, IDE VSCode.
   
-      - TDD com Python, a biblioteca Playwright e o codegen (inspetor), IDE Pycharm, Selenium WebDriver.
+      - TDD com Python, a biblioteca Playwright e o codegen (inspetor), Selenium WebDriver, IDE Pycharm.
   
       - ATDD - critérios de aceite dos requisitos do software.  
 
