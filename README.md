@@ -31,7 +31,7 @@
   
       - BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
   
-      - TDD com Java, JUnit, TestNG, Apache Tomcat, Maven (“pom.xml”), IDE Eclipse, Selenium.
+      - TDD com Java, JUnit, TestNG, Apache Tomcat, Maven (“pom.xml”), IDE Eclipse, Selenium WebDriver.
   
       - TDD com JavaScript, Cypress, Node.js, IDE VSCode.
   
