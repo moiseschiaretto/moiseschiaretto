@@ -68,6 +68,8 @@
 
   **- Metodologia Ágil Scrum (Kanban, Squad)**
   
+      - PDCA: Plan, Do, Check, Action.
+      
       - JIRA (Jql - query), Confluence.
 
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
