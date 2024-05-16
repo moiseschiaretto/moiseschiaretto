@@ -18,7 +18,7 @@
 
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
   
-  **- API REST (back-end):**
+  **- Back-end - API Rest com Rest Assured**
   
       - Postman com Javascript, JWT, CRUD, Verbos HTTP / Métodos (Get, Post, Put, Patch, Delete).
   
@@ -27,7 +27,7 @@
       - API Rest com Rest Assured utilizando também Python e Cypress.
 
 
-   **- Web (front-end):**
+   **- Front-end - Web**
   
       - BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
   
