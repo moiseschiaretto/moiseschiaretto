@@ -2,7 +2,7 @@
 
 - Trabalho na área de QA há (quinze) 15 anos, sendo 8 (oito) anos com automatização de testes.
     
-    - API REST (back-end), Web (front-end), Mobile e Performance.
+    - Back-end (API Rest com Rest Assured), Front-end (Web), Mobile e Performance.
 
 ## Formação acadêmica:
 
