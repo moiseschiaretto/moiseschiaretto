@@ -43,6 +43,8 @@
   **- Mobile**
   
       - Robot Framework e a ferramenta Appium para os testes Mobile.
+      
+      - Robot Framework para os testes de API RESTful e Web.
   
       - Keyword-driven (Test Data Syntaxe).
   
