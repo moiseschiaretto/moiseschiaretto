@@ -1,6 +1,6 @@
 ## Olá, meu nome é Moisés Chiaretto!
 
-- Trabalho na área de QA há (quinze) 15 anos, sendo 8 (oito) anos com automatização de testes.
+- Trabalho na área de QA há 15 (quinze) anos, sendo 8 (oito) anos com automatização de testes.
     
     - Back-end (API Rest com Rest Assured), Front-end (Web), Mobile e Performance.
 
