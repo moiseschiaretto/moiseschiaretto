@@ -1,8 +1,7 @@
 ## Olá, meu nome é Moisés Chiaretto!
 
 - Trabalho na área de QA há 15 (quinze) anos, sendo 8 (oito) anos com automatização de testes.
-    
-    - Back-end (API Rest com Rest Assured), Front-end (Web), Mobile e Performance.
+
 
 ## Formação acadêmica:
 
@@ -17,38 +16,45 @@
 
 
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
-  
+
   **- Back-end - API Rest com Rest Assured**
   
-      - Postman com Javascript, JWT, CRUD, Verbos HTTP / Métodos (Get, Post, Put, Patch, Delete).
+      – Java com testes de APIs RESTful com Rest Assured e TestNG, Apache Maven (“pom.xml”).
+
   
-      - Spring Boot em Java, testes de APIs RESTful para garantir a qualidade do software.
-  
-      - API Rest com Rest Assured utilizando também Python e Cypress.
+  **- Back-end – API Rest**
+    
+      – Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete).
+
+      – Python testes de API Rest utilizando uri e as bibliotecas “requests,  json, bigquery, psycopg2”.
+
+      – Cypress com Javascript e a biblioteca “cy.request()” para as solicitações HTTP.
 
 
    **- Front-end - Web**
   
-      - BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
-  
-      - TDD com Java, JUnit, TestNG, Apache Tomcat, Maven (“pom.xml”), Selenium WebDriver, IDE Eclipse.
-  
-      - TDD com JavaScript, Cypress, Node.js, IDE VSCode.
-  
-      - TDD com Python, a biblioteca Playwright e o codegen (inspetor), Selenium WebDriver, IDE Pycharm.
-  
-      - ATDD - critérios de aceite dos requisitos do software.  
+      – BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
+
+      – TDD com Java, JUnit, Apache Maven (“pom.xml”), Selenium WebDriver, IDE Eclipse.
+
+      – TDD com JavaScript, Cypress, Node.js, IDE VSCode.
+
+      – TDD com Python, PyTest, Playwright, codegen (inspetor), Selenium WebDriver, IDE Pycharm.
+
+      – ATDD - critérios de aceite dos requisitos do software.
+
+      – DDD - Domain Driven Design, Modelar o Domínio do Negócio de uma aplicação.
+
+      – SQL, Banco de Dados Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB.
 
   
   **- Mobile**
   
-      - Robot Framework e a ferramenta Appium para os testes Mobile.
+      – Robot Framework e a ferramenta Appium para os testes Mobile, IDE VSCode.
       
-      - Robot Framework para os testes de API RESTful e Web.
+      – Robot Framework para os testes de API RESTful e Web.
   
-      - Keyword-driven (Test Data Syntaxe).
-  
-      - Execução em Docker.
+      – Execução em Docker.
 
   
   **- Performance**
