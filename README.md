@@ -13,14 +13,15 @@
 - FACET – Faculdade de Ciências e Tecnologia do Paraná.
 
     - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
-
+<br>
 
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
+<br>
 
   **- Back-end - API Rest com Rest Assured**
   
       – Java com testes de APIs RESTful com Rest Assured e TestNG, Apache Maven (“pom.xml”).
-
+<br>
   
   **- Back-end – API Rest**
     
@@ -29,7 +30,7 @@
       – Python testes de API Rest utilizando uri e as bibliotecas “requests,  json, bigquery, psycopg2”.
 
       – Cypress com Javascript e a biblioteca “cy.request()” para as solicitações HTTP.
-
+<br>
 
    **- Front-end - Web**
   
@@ -46,7 +47,7 @@
       – DDD - Domain Driven Design, Modelar o Domínio do Negócio de uma aplicação.
 
       – SQL, Banco de Dados Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB.
-
+<br>
   
   **- Mobile**
   
@@ -55,7 +56,7 @@
       – Robot Framework para os testes de API RESTful e Web.
   
       – Execução em Docker.
-
+<br>
   
   **- Performance**
   
@@ -65,14 +66,14 @@
       - Scripts de volume de acessos simultâneos de usuários (testes carga/load e estresse).
   
       - API REST utilizando as requisições com os verbos HTTP (testes carga/load, estresse, volume).
-
+<br>
   
   **- DevOps e DevSecOps**
   
       - CI (Integração Contínua) e CD (Entrega Contínua).
 
       - Git (versionamento), Bitbucket (Soucetree).
-
+<br>
 
   **- Metodologia Ágil Scrum (Kanban, Squad)**
   
@@ -81,3 +82,4 @@
       - JIRA (Jql - query), Confluence.
 
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
+<br>
