@@ -25,7 +25,7 @@
   
   **- Back-end – API Rest**
     
-      – Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete).
+      – Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete), Newman.
 
       – Python testes de API Rest utilizando uri e as bibliotecas “requests,  json, bigquery, psycopg2”.
 
