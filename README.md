@@ -73,6 +73,8 @@
       - CI (Integração Contínua) e CD (Entrega Contínua).
 
       - Git (versionamento), Bitbucket (Soucetree).
+
+      - Gitlab, Jenkins.
 <br>
 
   **- Metodologia Ágil Scrum (Kanban, Squad)**
