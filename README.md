@@ -85,3 +85,12 @@
 
       - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
 <br>
+
+ **- Documentação de Testes – IEEE 29119-3**
+  
+      – Gerenciar os relatórios diários de execução de testes KPIs.
+
+      – Homologação dos sistemas com os clientes – UX e UI.
+
+      – Elaboração de manuais de sistemas e treinamentos para os clientes e equipe de suporte interna.
+<br>
