@@ -75,6 +75,8 @@
       - Git (versionamento), Bitbucket (Soucetree).
 
       - Gitlab, Jenkins.
+
+      – Testes de Segurança, Pentest ou Teste de Intrusão (DOS e DDOS) desenvolvida pela equipe interna e empresa externa com certificação de segurança do software (UnderProtection).
 <br>
 
   **- Metodologia Ágil Scrum (Kanban, Squad)**
