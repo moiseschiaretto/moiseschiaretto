@@ -30,6 +30,8 @@
       – Python testes de API Rest utilizando uri e as bibliotecas “requests,  json, bigquery, psycopg2”.
 
       – Cypress com Javascript e a biblioteca “cy.request()” para as solicitações HTTP.
+
+      - Supertest, Jest, Jest HTML Reporter, utilizando JavaScript e Node.js, IDE VSCode.
 <br>
 
    **- Front-end - Web**
