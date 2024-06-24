@@ -27,9 +27,11 @@
     
       – Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete), Newman.
 
-      – Python testes de API Rest utilizando uri e as bibliotecas “requests,  json, bigquery, psycopg2”.
+      – Python testes de API Rest e as bibliotecas “requests,  json, bigquery, psycopg2”.
 
       – Cypress com Javascript e a biblioteca “cy.request()” para as solicitações HTTP.
+
+      – Robot Framework com as bibliotecas RequestsLibrary, Collections, String.
 
       - Supertest, Jest, Jest HTML Reporter, utilizando JavaScript e Node.js, IDE VSCode.
 <br>
@@ -40,24 +42,20 @@
 
       – TDD com Java, JUnit, TestNG, Apache Maven (“pom.xml”), Selenium WebDriver, IDE Eclipse.
 
-      – TDD com JavaScript, Cypress, Node.js, IDE VSCode.
+      – TDD com Cypress utilizando JavaScript, Node.js, IDE VSCode.
 
       – TDD com Python, PyTest, Playwright, codegen (inspetor), Selenium WebDriver, IDE Pycharm.
 
+      – TDD com Robot Framework com a biblioteca SeleniumLibrary.
+
       – ATDD - critérios de aceite dos requisitos do software.
 
-      – DDD - Domain Driven Design, Modelar o Domínio do Negócio de uma aplicação.
-
-      – SQL, Banco de Dados Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB.
 <br>
   
   **- Mobile**
   
-      – Robot Framework e a ferramenta Appium para os testes Mobile, IDE VSCode.
+      – Robot Framework e a ferramenta Appium para os testes Mobile, AppiumLibrary, IDE VSCode.
       
-      – Robot Framework para os testes de API RESTful e Web.
-  
-      – Execução em Docker.
 <br>
   
   **- Performance**
@@ -69,6 +67,13 @@
   
       - API REST utilizando as requisições com os verbos HTTP (testes carga/load, estresse, volume).
 <br>
+
+  **- Banco de Dados**
+
+  – Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB (NoSQL).
+
+  – SQL, DDL (estrutura), DML (manutenção), DQL (consulta), DCL (permissões), DTL (transação).
+<br>
   
   **- DevOps e DevSecOps**
   
@@ -76,7 +81,7 @@
 
       - Git (versionamento), Bitbucket (Soucetree).
 
-      - Gitlab, Jenkins.
+      – Gitlab, Jenkins, Docker.
 
       – Testes de Segurança, Pentest ou Teste de Intrusão (DOS e DDOS) desenvolvida pela equipe interna e empresa externa com certificação de segurança do software (UnderProtection).
 <br>
@@ -92,9 +97,13 @@
 
  **- Documentação de Testes – IEEE 29119-3**
   
-      – Gerenciar os relatórios diários de execução de testes KPIs.
+      – DDD - Domain Driven Design, Modelar o Domínio do Negócio de uma aplicação.
+
+      – Elaboração de manuais de sistemas e treinamentos para os clientes e equipe de suporte interna.
+      
+      – KPIs relatórios diários de execução de testes.
 
       – Homologação dos sistemas com os clientes – UX e UI.
 
-      – Elaboração de manuais de sistemas e treinamentos para os clientes e equipe de suporte interna.
+      
 <br>
