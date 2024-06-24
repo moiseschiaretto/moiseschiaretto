@@ -66,6 +66,7 @@
       - Scripts de volume de acessos simultâneos de usuários (testes carga/load e estresse).
   
       - API REST utilizando as requisições com os verbos HTTP (testes carga/load, estresse, volume).
+
 <br>
 
   **- Banco de Dados**
@@ -73,6 +74,7 @@
   – Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB (NoSQL).
 
   – SQL, DDL (estrutura), DML (manutenção), DQL (consulta), DCL (permissões), DTL (transação).
+
 <br>
   
   **- DevOps e DevSecOps**
