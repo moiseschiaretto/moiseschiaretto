@@ -28,7 +28,9 @@
  
     - Cancela e Elevador automáticos e com sensor ultrassônico.
     
-    - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua.
+    - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua;
+
+    - Montagem e programação Display LCD com I2C.
  
 <br>
   
