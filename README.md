@@ -18,7 +18,7 @@
 ## Robótica
 <br>
 
-- **Curso SESC Curitiba - PR**, fundamentos da robótica, cultura Maker, lógica de programação, projetando, simulando e programando – Tinkercad, conceitos de eletrônica e mecânica, componentes eletrônicos, ambiente Arduino (2023, 48 horas).
+- **Curso SESC Curitiba - PR**, fundamentos da robótica, cultura Maker, projetando com Tinkercad, programando com liguagem C, conceitos de eletrônica e mecânica, componentes eletrônicos, ambiente Arduino (2023, 48 horas).
 
 **- Projetos com Arduino:**
 
@@ -26,7 +26,7 @@
     
     - Montagem de Garra Robótica com abertura e fechamento automático e com sensor ultrassônico;
  
-    - Cancela e Elevador automáticos e com sensor ultrassônico.
+    - Cancela e Elevador automáticos e com sensor ultrassônico;
     
     - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua;
 
