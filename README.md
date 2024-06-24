@@ -69,6 +69,7 @@
 
 <br>
 
+
   **- Banco de Dados**
   
   – Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB (NoSQL).
@@ -76,7 +77,8 @@
   – SQL, DDL (estrutura), DML (manutenção), DQL (consulta), DCL (permissões), DTL (transação).
 
 <br>
-  
+
+
   **- DevOps e DevSecOps**
   
       - CI (Integração Contínua) e CD (Entrega Contínua).
