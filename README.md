@@ -13,7 +13,7 @@
 - FACET – Faculdade de Ciências e Tecnologia do Paraná.
 
     - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
-<br>
+
 
 ## Robótica
 <br>
