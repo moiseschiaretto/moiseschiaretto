@@ -15,6 +15,24 @@
     - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
 <br>
 
+## Robótica
+<br>
+
+- SESC, fundamentos da robótica, cultura Maker, lógica de programação, projetando, simulando e programando – Tinkercad, conceitos de eletrônica e mecânica, componentes eletrônicos, ambiente Arduino (2023, 48 horas).
+
+**- Projetos com Arduino:**
+
+    - Carrinho Robótico com Bluetooth HC-12;
+    
+    - Montagem de Garra Robótica com abertura e fechamento automático e com sensor ultrassônico;
+ 
+    - Cancela e Elevador automáticos e com sensor ultrassônico.
+    
+    - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua.
+ 
+<br>
+  
+
 ## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
 <br>
 
