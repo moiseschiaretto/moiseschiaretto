@@ -80,12 +80,13 @@
   
   **- Performance**
   
-      - Apache JMeter, verbos HTTP, status code, arquivos CSV, parametrização de valores,
-      API REST conversão Postman (Loadium, Code), Smoke Test (checklist), Testes de Regressão, Análise de Resultados.
-  
-      - Scripts de volume de acessos simultâneos de usuários (testes carga/load e estresse).
-  
-      - API REST utilizando as requisições com os verbos HTTP (testes carga/load, estresse, volume).
+      - Apache JMeter, user group, threads group, data CSV, request HTTP, asserts, status code.
+
+      - Scripts de volume de acessos simultâneos de usuários.
+
+      - API REST conversão Postman (Loadium, Code), Testes de Regressão, Análise de Resultados.
+
+      - API REST utilizando as requisições com os verbos HTTP.
 
 <br>
 
