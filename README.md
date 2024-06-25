@@ -80,13 +80,11 @@
   
   **- Performance**
   
-      - Apache JMeter, user group, threads group, data CSV, request HTTP, asserts, status code.
+      - Apache JMeter, threads, data CSV, request HTTP, asserts, status code.
 
       - Scripts de volume de acessos simultâneos de usuários em página Web com threads.
 
-      - API REST conversão Postman (Loadium, Code), Testes de Regressão, Análise de Resultados.
-
-      - API REST utilizando as requisições com os verbos HTTP com threads.
+      - API REST conversão Postman (Loadium, Code), threads de requisições HTTP, Análise de Resultados.
 
 <br>
 
