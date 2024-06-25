@@ -82,11 +82,11 @@
   
       - Apache JMeter, user group, threads group, data CSV, request HTTP, asserts, status code.
 
-      - Scripts de volume de acessos simultâneos de usuários.
+      - Scripts de volume de acessos simultâneos de usuários em página Web com threads.
 
       - API REST conversão Postman (Loadium, Code), Testes de Regressão, Análise de Resultados.
 
-      - API REST utilizando as requisições com os verbos HTTP.
+      - API REST utilizando as requisições com os verbos HTTP com threads.
 
 <br>
 
