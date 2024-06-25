@@ -102,9 +102,9 @@
   
       - CI (Integração Contínua) e CD (Entrega Contínua).
 
-      - Git (versionamento), Bitbucket (Soucetree).
+      - Git (versionamento).
 
-      – Gitlab, Jenkins, Docker.
+      – Jenkins, Docker, GitHub, GitLab, Bitbucket (Git, Soucetree).
 
       – Testes de Segurança, Pentest ou Teste de Intrusão (DOS e DDOS) desenvolvida pela equipe interna e empresa externa com certificação de segurança do software (UnderProtection).
 <br>
