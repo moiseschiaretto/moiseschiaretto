@@ -104,7 +104,7 @@
 
       - Git (versionamento).
 
-      – Jenkins, Docker, GitHub, GitLab, Bitbucket (Git, Soucetree).
+      – Jenkins, Docker, GitHub, GitLab, Bitbucket (Git, Sourcetree).
 
       – Testes de Segurança, Pentest ou Teste de Intrusão (DOS e DDOS) desenvolvida pela equipe interna e empresa externa com certificação de segurança do software (UnderProtection).
 <br>
