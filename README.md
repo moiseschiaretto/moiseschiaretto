@@ -26,7 +26,7 @@
     
     - Montagem de Garra Robótica com abertura e fechamento automático, com servo motor e com sensor ultrassônico;
  
-    - Cancela e Elevador automáticos, com servo motor e sensor ultrassônico;
+    - Cancela (estacionamento, pedágio) e Elevador automáticos, com servo motor e sensor ultrassônico;
     
     - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua;
 
