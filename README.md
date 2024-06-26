@@ -84,7 +84,7 @@
 
       - Scripts de volume de acessos simultâneos de usuários em página Web.
 
-      - API REST conversão de Collection Postman  para JMeter (Loadium, Code), Análise de Resultados.
+      - API REST conversão de Collection Postman para JMeter (Loadium, Code), Análise de Resultados.
 
 <br>
 
