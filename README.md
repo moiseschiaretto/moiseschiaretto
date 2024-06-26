@@ -80,9 +80,9 @@
   
   **- Performance**
   
-      - Apache JMeter, threads, data CSV, request HTTP, asserts, status code.
+      - Apache JMeter, load test, threads, data CSV, request HTTP, asserts, status code.
 
-      - Scripts de volume de acessos simultâneos de usuários em página Web (load test).
+      - Scripts de volume de acessos simultâneos de usuários em página Web.
 
       - API REST conversão de Collection Postman para JMeter (Loadium, Code), Análise de Resultados.
 
