@@ -80,7 +80,7 @@
   
   **- Performance API e Web**
   
-     **– Apache JMeter**, load test, threads, data CSV, request HTTP, asserts, status code.
+     – Apache JMeter, load test, threads, data CSV, request HTTP, asserts, status code.
 
      – API REST conversão de Collection Postman para JMeter (Loadium, Code).
 
