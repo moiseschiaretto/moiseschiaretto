@@ -80,11 +80,11 @@
   
   **- Performance API e Web**
   
- **– Apache JMeter**, load test, threads, data CSV, request HTTP, asserts, status code.
+     **– Apache JMeter**, load test, threads, data CSV, request HTTP, asserts, status code.
 
- – API REST conversão de Collection Postman para JMeter (Loadium, Code).
+     – API REST conversão de Collection Postman para JMeter (Loadium, Code).
 
- – Token, Variável Global, Gerar CPF/CNPJ, Requisições em Massa, Análise de Resultados.
+     – Token, Variável Global, Gerar CPF/CNPJ, Requisições em Massa, Análise de Resultados.
  
 <br>
 
