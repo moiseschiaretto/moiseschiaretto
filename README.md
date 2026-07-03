@@ -1,131 +1,21 @@
-## Olá, meu nome é Moisés Chiaretto!
-
-- Trabalho na área de QA há 15 (quinze) anos, sendo 8 (oito) anos com automatização de testes.
-
-
-## Formação acadêmica:
-
-- UTFPR – Universidade Tecnológica Federal do Paraná.
-
-    - Especialista em Tecnologia Java, TI (2007 - 2009, 380 horas)
-
-
-- FACET – Faculdade de Ciências e Tecnologia do Paraná.
-
-    - Bacharel em Tecnologia em Processamento de Dados, TI (2002 - 2006, 2.940 horas).
-
-
-## Robótica
-<br>
-
-- **Curso SESC Curitiba - PR**, cultura Maker, projetando com Tinkercad, programando com linguagem C, conceitos de eletrônica e mecânica, componentes eletrônicos, ambiente Arduino (2023, 48 horas).
-
-**- Projetos com Arduino:**
-
-    - Carrinho Robótico com Bluetooth HC-12;
-    
-    - Montagem de Garra Robótica com abertura e fechamento automático, com servo motor e com sensor ultrassônico;
+# Olá! Sou o Moisés Chiaretto 👋
+### QA Sênior | Test Automation Engineer | SDET
  
-    - Cancela (estacionamento, pedágio) e Elevador automáticos, com servo motor e sensor ultrassônico;
-    
-    - Programação e montagem de LEDS e Buzzer, simulação de Semáforo de Rua;
-
-    - Montagem e programação Display LCD com I2C.
+15+ anos em Qualidade de Software, com foco em automação de testes E2E, API e performance. Este perfil reúne projetos práticos que demonstram atuação com **Playwright, Cypress, Rest Assured, Robot Framework e k6**, incluindo pipelines de CI/CD com GitHub Actions.
  
-<br>
-  
-
-## Experiência Profissional na Área de QA - Testes de Softwares [Skills]
-<br>
-
-  **- Back-end - API Rest com Rest Assured**
-  
-      – Java com testes de APIs RESTful com Rest Assured e TestNG, Apache Maven (“pom.xml”).
-<br>
-  
-  **- Back-end – API Rest**
-    
-      – Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete), Newman.
-
-      – Python testes de API Rest e as bibliotecas “requests,  json, bigquery, psycopg2”.
-
-      – Cypress com Javascript e a biblioteca “cy.request()” para as solicitações HTTP.
-
-      – Robot Framework com as bibliotecas RequestsLibrary, Collections, String.
-
-      - Supertest, Jest, Jest HTML Reporter, utilizando JavaScript e Node.js, IDE VSCode.
-<br>
-
-   **- Front-end - Web**
-  
-      – BDD com Gherkin (Linguagem e símbolos para escrita do BDD) e o framework Cucumber.
-
-      – TDD com Java, JUnit, TestNG, Apache Maven (“pom.xml”), Selenium WebDriver, IDE Eclipse.
-
-      – TDD com Cypress utilizando JavaScript, Node.js, IDE VSCode.
-
-      – TDD com Python, PyTest, Playwright, codegen (inspetor), Selenium WebDriver, IDE Pycharm.
-
-      – TDD com Robot Framework com a biblioteca SeleniumLibrary.
-
-      – ATDD - critérios de aceite dos requisitos do software.
-
-<br>
-  
-  **- Mobile**
-  
-      – Robot Framework e a ferramenta Appium para os testes Mobile, AppiumLibrary, IDE VSCode.
-      
-<br>
-  
-  **- Performance API e Web**
-  
-     – Apache JMeter, load test, threads, data CSV, request HTTP, asserts, status code.
-
-     – API REST conversão de Collection Postman para JMeter (Loadium, Code).
-
-     – Token, Variável Global, Gerar CPF/CNPJ, Requisições em Massa, Análise de Resultados.
+### 🔍 O que você encontra aqui
+- Projetos de automação E2E (Web e Mobile)
+- Testes de API REST com múltiplas ferramentas (Postman, Rest Assured, Cypress, Robot Framework)
+- Pipelines de CI/CD integrados com GitHub Actions
+- Testes de performance com JMeter e k6
  
-<br>
-
-
-  **- Banco de Dados**
-
-    - Oracle, PostgreSQL, Microsoft SQL Server, MySQL (DBeaver), MongoDB (NoSQL).
-
-    - SQL, DDL (estrutura), DML (manutenção), DQL (consulta), DCL (permissões), DTL (transação).
-
-<br>
-
-  **- DevOps e DevSecOps**
-  
-      - CI (Integração Contínua) e CD (Entrega Contínua).
-
-      - Git (versionamento).
-
-      – Jenkins, Docker, GitHub, GitLab, Bitbucket (Git, Sourcetree).
-
-      – Testes de Segurança, Pentest ou Teste de Intrusão (DOS e DDOS) desenvolvida pela equipe interna e empresa externa com certificação de segurança do software (UnderProtection).
-<br>
-
-  **- Metodologia Ágil Scrum (Kanban, Squad)**
-  
-      - PDCA: Plan, Do, Check, Action.
-      
-      - JIRA (Jql - query), Confluence.
-
-      - KPIs (métricas) Incidentes, Bug (prioridades = highest, high), SLA dos registros no Jira.
-<br>
-
- **- Documentação de Testes – IEEE 29119-3**
-  
-      – DDD - Domain Driven Design, Modelar o Domínio do Negócio de uma aplicação.
-
-      – Elaboração de manuais de sistemas e treinamentos para os clientes e equipe de suporte interna.
-      
-      – KPIs relatórios diários de execução de testes.
-
-      – Homologação dos sistemas com os clientes – UX e UI.
-
-      
-<br>
+### 🛠️ Stack principal
+`Playwright` `Cypress` `TypeScript` `JavaScript` `Python` `Java` `Robot Framework` `Rest Assured` `Postman` `Docker` `GitHub Actions` `Jenkins`
+ 
+### 📌 Projetos em destaque
+Confira os repositórios fixados abaixo — cada um explora uma ferramenta ou abordagem de automação diferente, com README detalhando escopo, estrutura e resultados.
+ 
+### 📫 Contato
+- LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
+- E-mail: moiseschiaretto@gmail.com
+- Curitiba, PR — Disponível para novas oportunidades remotas
