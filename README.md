@@ -1,7 +1,7 @@
 # Olá! Sou o Moisés Chiaretto 👋
 ### QA Sênior | Test Automation Engineer | SDET
  
-15+ anos em Qualidade de Software, com foco em automação de testes E2E, API e performance. Este perfil reúne projetos práticos que demonstram atuação com **Playwright, Cypress, Rest Assured, Robot Framework e k6**, incluindo pipelines de CI/CD com GitHub Actions.
+Tenho 17 anos de experiência em Qualidade de Software, com foco em automação de testes E2E, API e performance. Este perfil reúne projetos práticos que demonstram atuação com **Playwright, Cypress, Rest Assured, Robot Framework e k6**, incluindo pipelines de CI/CD com GitHub Actions.
  
 ### 🔍 O que você encontra aqui
 - Projetos de automação E2E (Web e Mobile)
