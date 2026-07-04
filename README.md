@@ -17,4 +17,4 @@ Tenho 17 anos de experiência em Qualidade de Software, atuando de forma equilib
 Uso **Claude Code** de forma consistente no meu fluxo de trabalho — abordagem **AI-First** que vai além de gerar cenários: inclui desenvolvimento, execução, depuração e manutenção de testes de ponta a ponta, com a IA atuando como agente ativo no processo, não só como assistente pontual.
 
 ### 📌 Projetos em destaque
-Confira os repositórios fixados abaixo — cada um explora uma camada diferente (API, Front-end, Performance, Carga),
+Confira os repositórios fixados abaixo — cada um explora uma camada diferente (Back-end/API, Front-end, Performance, Carga),
