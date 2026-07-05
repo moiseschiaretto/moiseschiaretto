@@ -5,7 +5,7 @@ Tenho 17 anos de experiência em Qualidade de Software, atuando de forma equilib
 
 ### 🔍 O que você encontra aqui
 - Projetos de automação **E2E** (Web e Mobile), com Page Object Model
-- Testes de **API REST / Back-end** com múltiplas ferramentas (Postman, Rest Assured, Cypress, Robot Framework), incluindo testes de contrato
+- Testes de **Back-end (API REST)** com múltiplas ferramentas (Postman, Rest Assured, Cypress, Robot Framework), incluindo testes de contrato
 - Testes de **Performance e carga** com JMeter e k6
 - Pipelines de **CI/CD** integrados com GitHub Actions
 - Projetos construídos com apoio de IA generativa (**Claude Code**), do design à execução
@@ -19,7 +19,7 @@ Uso **Claude Code** de forma consistente no meu fluxo de trabalho — abordagem 
 ### 📌 PORTFÓLIO TÉCNICO — GITHUB EM DESTAQUE
 Confira os repositórios fixados abaixo — cada um explora uma camada diferente: Back-end (API REST), Front-end, Performance, Carga.
 
-- **Playwright_API_Contract_Tests** — testes de contrato de API pública com validação de schema (Joi)
+- **Playwright_API_Contract_Tests** — testes de contrato de Back-end (API REST) pública, com validação de schema (Joi)
 - **Playwright_Frontend_E2E_Tests** — testes E2E responsivos (desktop/mobile/tablet) com Page Object Model e TypeScript
 - **playwright-web-vitals-monitor** — monitoramento de Core Web Vitals (LCP, CLS, INP)
 - **k6-web-runner** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
