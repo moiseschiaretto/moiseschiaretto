@@ -16,7 +16,7 @@ Tenho 17 anos de experiência em Qualidade de Software, atuando de forma equilib
 ### 🤖 IA aplicada a QA
 Uso **Claude Code** de forma consistente no meu fluxo de trabalho — abordagem **AI-First** que vai além de gerar cenários: inclui desenvolvimento, execução, depuração e manutenção de testes de ponta a ponta, com a IA atuando como agente ativo no processo, não só como assistente pontual.
 
-### 📌 𝗣𝗢𝗥𝗧𝗙𝗢́𝗟𝗜𝗢 𝗧𝗘́𝗖𝗡𝗜𝗖𝗢 — 𝗚𝗜𝗧𝗛𝗨𝗕 EM DESTAQUE
+### 📌 PORTFÓLIO TÉCNICO — GITHUB EM DESTAQUE
 Confira os repositórios fixados abaixo — cada um explora uma camada diferente: Back-end (API REST), Front-end, Performance, Carga.
 
 - **Playwright_API_Contract_Tests** — testes de contrato de API pública com validação de schema (Joi)
