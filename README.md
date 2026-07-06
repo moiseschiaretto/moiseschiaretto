@@ -23,7 +23,7 @@ Confira os repositórios fixados abaixo — cada um explora uma camada diferente
 - [playwright_frontend_e2e_tests](https://github.com/moiseschiaretto/playwright_frontend_e2e_tests) — testes E2E responsivos (desktop/mobile/tablet) com Page Object Model e TypeScript
 - [playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor) — monitoramento de Core Web Vitals (LCP, CLS, INP)
 - [k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner) — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
-- [jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync) — sincronização de KPIs do Jira via API REST, com relatório HTML e exportação para Google Sheets/Looker Studio
+- [jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync) — sincronização de KPIs do Jira via API REST, com relatório HTML e exportação de dados em CSV
 
 ### 📫 Contato
 - LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
