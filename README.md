@@ -19,10 +19,10 @@ Uso **Claude Code** de forma consistente no meu fluxo de trabalho — abordagem 
 ### 📌 Portfólio Técnico — GitHub em Destaque
 Confira os repositórios fixados abaixo — cada um explora uma camada diferente: Back-end (API REST), Front-end, Performance, Carga.
 
-- **playwright-public-api-contract-tests** — testes de contrato de Back-end (API REST) pública, com validação de schema (Joi)
-- **playwright_frontend_e2e_tests** — testes E2E responsivos (desktop/mobile/tablet) com Page Object Model e TypeScript
-- **playwright-web-vitals-monitor** — monitoramento de Core Web Vitals (LCP, CLS, INP)
-- **k6-web-runner** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
+- [playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests) — testes de contrato de Back-end (API REST) pública com validação de schema (Joi)
+- [playwright_frontend_e2e_tests](https://github.com/moiseschiaretto/playwright_frontend_e2e_tests) — testes E2E responsivos (desktop/mobile/tablet) com Page Object Model e TypeScript
+- [playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor) — monitoramento de Core Web Vitals (LCP, CLS, INP)
+- [k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner) — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
 
 ### 📫 Contato
 - LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
