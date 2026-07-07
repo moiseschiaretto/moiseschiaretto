@@ -4,11 +4,12 @@
 Tenho 17 anos de experiência em Qualidade de Software, atuando de forma equilibrada em **testes E2E — Back-end (API REST) e Front-end (Web/Mobile) — e Performance**, hoje aplicando uma abordagem **AI-First** (Claude Code) para acelerar geração de cenários, manutenção de testes e produtividade no ciclo de QA. Este perfil reúne projetos práticos que demonstram atuação com **Playwright, Cypress, Rest Assured, Robot Framework e k6**, em **Java, Python, JavaScript/TypeScript e Node.js**, incluindo pipelines de CI/CD com GitHub Actions.
 
 ### 🔍 O que você encontra aqui
-- Projetos de automação **E2E** (Web e Mobile), com Page Object Model
-- Testes de **Back-end (API REST)** com múltiplas ferramentas (Postman, Rest Assured, Cypress, Robot Framework), incluindo testes de contrato
-- Testes de **Performance e carga** com JMeter e k6
-- Pipelines de **CI/CD** integrados com GitHub Actions
-- Projetos construídos com apoio de IA generativa (**Claude Code**), do design à execução
+- Projetos de automação **E2E (Web e Mobile)**, com **Page Object Model**
+- Testes de **Back-end (API REST)** com múltiplas ferramentas (**Postman**, **Rest Assured**, **Cypress**), incluindo **testes de contrato**
+- Testes de **Performance e carga** com **JMeter** e **k6**
+- Sincronização e visualização de **KPIs do Jira**, com relatórios em **HTML** e **CSV**
+- Pipelines de **CI/CD** integrados com **GitHub Actions**
+- Projetos construídos com apoio de **IA generativa (Claude Code)**, do design à execução
 
 ### 🛠️ Stack principal
 `Playwright` `Cypress` `TypeScript` `JavaScript` `Python` `Java` `Node.js` `Robot Framework` `Rest Assured` `Postman` `Docker` `GitHub Actions` `Jenkins` `k6` `Claude Code`
