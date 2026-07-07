@@ -1,32 +1,49 @@
-# Olá! Sou o Moisés Chiaretto 👋
-### QA Sênior | Test Automation Engineer | SDET | IA Claude Code
+## Olá, meu nome é Moisés Chiaretto!
 
-Tenho 17 anos de experiência em Qualidade de Software, atuando de forma equilibrada em **testes E2E — Back-end (API REST) e Front-end (Web/Mobile) — e Performance**, hoje aplicando uma abordagem **AI-First** (Claude Code) para acelerar geração de cenários, manutenção de testes e produtividade no ciclo de QA. Este perfil reúne projetos práticos que demonstram atuação com **Playwright, Cypress, Rest Assured, Robot Framework e k6**, em **Java, Python, JavaScript/TypeScript e Node.js**, incluindo pipelines de CI/CD com GitHub Actions.
+QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes (Back-end, Front-end, Mobile e Performance).
 
-### 🔍 O que você encontra aqui
-- Projetos de automação **E2E (Web e Mobile)**, com **Page Object Model**
-- Testes de **Back-end (API REST)** com múltiplas ferramentas (**Postman**, **Rest Assured**, **Cypress**), incluindo **testes de contrato**
-- Testes de **Performance e carga** com **JMeter** e **k6**
-- Sincronização e visualização de **KPIs do Jira**, com relatórios em **HTML** e **CSV**
-- Pipelines de **CI/CD** integrados com **GitHub Actions**
-- Projetos construídos com apoio de **IA generativa (Claude Code)**, do design à execução
+Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios.
 
-### 🛠️ Stack principal
-`Playwright` `Cypress` `TypeScript` `JavaScript` `Python` `Java` `Node.js` `Robot Framework` `Rest Assured` `Postman` `Docker` `GitHub Actions` `Jenkins` `k6` `Claude Code`
+📍 Curitiba - PR | 🔗 [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
 
-### 🤖 IA aplicada a QA
-Uso **Claude Code** de forma consistente no meu fluxo de trabalho — abordagem **AI-First** que vai além de gerar cenários: inclui desenvolvimento, execução, depuração e manutenção de testes de ponta a ponta, com a IA atuando como agente ativo no processo, não só como assistente pontual.
+---
 
-### 📌 Portfólio Técnico — GitHub em Destaque
-Confira os repositórios fixados abaixo — cada um explora uma camada diferente: Back-end (API REST), Front-end, Performance, Carga.
+## 🧰 Stack principal
 
-- [playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests) — testes de contrato de back-end (API REST) públicos com validação de esquema (Joi)
-- [playwright_frontend_e2e_tests](https://github.com/moiseschiaretto/playwright_frontend_e2e_tests) — testes E2E responsivos (desktop/mobile/tablet) com Page Object Model e TypeScript
-- [playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor) — monitoramento de Core Web Vitals (LCP, CLS, INP)
-- [k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner) — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
-- [jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync) — sincronização de KPIs do Jira via API REST, com relatório HTML e exportação de dados em CSV
+**Back-end (API REST):** Playwright, Rest Assured (Java), Postman, Python (requests), Supertest/Jest — testes de contrato, múltiplos métodos HTTP, Swagger/OpenAPI
 
-### 📫 Contato
+**Front-end (Web):** Playwright, Cypress, Selenium WebDriver — E2E, responsivo (Desktop/Tablet/Mobile), BDD (Gherkin/Cucumber)
+
+**Mobile:** Appium (Python/pytest)
+
+**Performance:** Apache JMeter, k6 — testes de carga e stress, com CI/CD
+
+**Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
+
+**DevOps/CI-CD:** GitHub Actions, Jenkins, Docker, Git, GitLab
+
+**Gestão de Testes & Ágil:** Jira + Xray, Confluence, Scrum, Kanban, Looker Studio (dashboards de KPIs)
+
+**Banco de Dados:** Oracle, PostgreSQL, SQL Server, MySQL, MongoDB, BigQuery
+
+**Normas:** ISTQB, IEEE 29119, CMMI, ISO/IEC 25010
+
+---
+
+## 📌 Portfólio em destaque
+
+- **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
+- **[playwright_frontend_e2e_tests](https://github.com/moiseschiaretto/playwright_frontend_e2e_tests)** — testes E2E responsivos (desktop/mobile/tablet/iPhone) com Page Object Model e TypeScript
+- **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
+- **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
+- **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do Jira via API REST, relatório HTML e exportação CSV
+
+Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
+
+---
+
+## 📫 Contato
+
 - LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
-- E-mail: moiseschiaretto@gmail.com
+- E-mail: [moiseschiaretto@gmail.com](mailto:moiseschiaretto@gmail.com)
 - Curitiba, PR — Disponível para novas oportunidades remotas
