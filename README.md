@@ -10,7 +10,7 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 
 ## 🧰 Stack principal
 
-**Back-end (API REST):** Playwright, Rest Assured (Java), Postman, Python (requests), Supertest/Jest — testes de contrato, múltiplos métodos HTTP, Swagger/OpenAPI
+**Back-end (API REST):** Playwright, Rest Assured (Java), Postman, Python (requests), Supertest/Jest — testes de contrato (Joi / JSON Schema), múltiplos métodos HTTP, Swagger/OpenAPI
 
 **Front-end (Web):** Playwright, Cypress, Selenium WebDriver — E2E, responsivo (Desktop/Tablet/Mobile), BDD (Gherkin/Cucumber)
 
@@ -33,6 +33,7 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 ## 📌 Portfólio em destaque
 
 - **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
+- **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em Java, Rest Assured + TestNG, validação de schema (JSON Schema), relatório customizado + Allure
 - **[playwright_frontend_e2e_tests](https://github.com/moiseschiaretto/playwright_frontend_e2e_tests)** — testes E2E responsivos (desktop/mobile/tablet/iPhone) com Page Object Model e TypeScript
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
