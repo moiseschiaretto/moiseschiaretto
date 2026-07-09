@@ -10,15 +10,14 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 
 ## 🧰 Stack principal
 
-**Back-end (API REST):** Playwright, Rest Assured (Java), Postman, Python (requests), Supertest/Jest — testes de contrato (Joi / JSON Schema), múltiplos métodos HTTP, Swagger/OpenAPI
-**Front-end (Web):** Playwright, Cypress, Selenium WebDriver — E2E, responsivo (Desktop/Tablet/Mobile), BDD (Gherkin/Cucumber)
-**Mobile:** Appium (Python/pytest), UiAutomator2, Page Object Model, Allure
-**Performance:** Apache JMeter, k6 — testes de carga e stress, com CI/CD
-**Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
-**DevOps/CI-CD:** GitHub Actions, Jenkins, Docker, Git, GitLab
-**Gestão de Testes & Ágil:** Jira + Xray, Confluence, Scrum, Kanban, Looker Studio (dashboards de KPIs)
-**Banco de Dados:** Oracle, PostgreSQL, SQL Server, MySQL, MongoDB, BigQuery
-**Normas:** ISTQB, IEEE 29119, CMMI, ISO/IEC 25010
+- **Back-end (API REST):** Playwright, Rest Assured (Java), Python (requests), Supertest/Jest — testes de contrato (Joi / JSON Schema), múltiplos métodos HTTP, Swagger/OpenAPI
+- **Front-end (Web):** Playwright — E2E, responsivo (Desktop/Tablet/Mobile/iPhone), Page Object Model
+- **Mobile:** Appium (Python/pytest), UiAutomator2, Page Object Model, Allure
+- **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real
+- **Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
+- **DevOps/CI-CD:** GitHub Actions, Docker, Git, GitLab
+- **Gestão de Testes & Ágil:** Jira (API REST), Looker Studio (dashboards de KPIs)
+- **Normas:** ISTQB, IEEE 29119, CMMI, ISO/IEC 25010
 
 ---
 
