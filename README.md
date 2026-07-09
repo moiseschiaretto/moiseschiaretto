@@ -11,21 +11,13 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 ## 🧰 Stack principal
 
 **Back-end (API REST):** Playwright, Rest Assured (Java), Postman, Python (requests), Supertest/Jest — testes de contrato (Joi / JSON Schema), múltiplos métodos HTTP, Swagger/OpenAPI
-
 **Front-end (Web):** Playwright, Cypress, Selenium WebDriver — E2E, responsivo (Desktop/Tablet/Mobile), BDD (Gherkin/Cucumber)
-
-**Mobile:** Appium (Python/pytest)
-
+**Mobile:** Appium (Python/pytest), UiAutomator2, Page Object Model, Allure
 **Performance:** Apache JMeter, k6 — testes de carga e stress, com CI/CD
-
 **Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
-
 **DevOps/CI-CD:** GitHub Actions, Jenkins, Docker, Git, GitLab
-
 **Gestão de Testes & Ágil:** Jira + Xray, Confluence, Scrum, Kanban, Looker Studio (dashboards de KPIs)
-
 **Banco de Dados:** Oracle, PostgreSQL, SQL Server, MySQL, MongoDB, BigQuery
-
 **Normas:** ISTQB, IEEE 29119, CMMI, ISO/IEC 25010
 
 ---
@@ -38,6 +30,7 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
 - **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do Jira via API REST, relatório HTML e exportação CSV
+- **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com Appium + Python (pytest), Page Object Model e relatórios Allure/HTML
 
 Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
 
