@@ -30,6 +30,7 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
 - **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do Jira via API REST, relatório HTML e exportação CSV
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com Appium + Python (pytest), Page Object Model e relatórios Allure/HTML
+- **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com OWASP ZAP, app vulnerável Node.js/Express como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (GitHub Actions) que bloqueia merge em vulnerabilidades críticas
 
 Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
 
