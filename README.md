@@ -32,6 +32,8 @@ Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia 
 - **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do Jira via API REST, relatório HTML e exportação CSV
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com Appium + Python (pytest), Page Object Model e relatórios Allure/HTML
 - **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com OWASP ZAP, app vulnerável Node.js/Express como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (GitHub Actions) que bloqueia merge em vulnerabilidades críticas.
+- **[jmeter-dynamic-data-correlation](https://github.com/moiseschiaretto/jmeter-dynamic-data-correlation)** — test plan em Apache JMeter com geração dinâmica de massa de dados (CPF/CNPJ, incluindo o novo formato alfanumérico de CNPJ da Receita Federal, 2026) e correlação de requisições em múltiplas etapas (login → token → cadastro → validação de sessão)
+- **[jmeter-csv-load-performance](https://github.com/moiseschiaretto/jmeter-csv-load-performance)** — test plan em Apache JMeter para carga e performance de login orientada a dados via CSV, com perfis comparáveis (5/10/50/100 usuários) e SLA validado por Duration Assertion
 
 Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
 
