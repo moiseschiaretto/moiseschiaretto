@@ -1,7 +1,6 @@
 ## Olá, meu nome é Moisés Chiaretto!
-
-QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes (Back-end, Front-end, Mobile e Performance).<br>
-Diferencial em abordagem <strong>QAOps & AI-First</strong>: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios.<br>
+QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes (Back-end, Front-end, Mobile e Performance).
+Diferencial em abordagem **AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios.
 📍 Curitiba - PR | 🔗 [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
 ---
 ## 🧰 Stack principal
