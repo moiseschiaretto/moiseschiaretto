@@ -1,6 +1,7 @@
 ## Olá, meu nome é Moisés Chiaretto!
-QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes (Back-end, Front-end, Mobile e Performance).
-Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios.
+
+QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes (Back-end, Front-end, Mobile e Performance).<br>
+Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios.<br>
 📍 Curitiba - PR | 🔗 [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
 ---
 ## 🧰 Stack principal
@@ -19,15 +20,4 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 - **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em Java, Rest Assured + TestNG, validação de schema (JSON Schema), relatório customizado + Allure
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop/mobile/tablet/iPhone) com Page Object Model e TypeScript
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
-- **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
-- **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do Jira via API REST, relatório HTML e exportação CSV
-- **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com Appium + Python (pytest), Page Object Model e relatórios Allure/HTML
-- **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com OWASP ZAP, app vulnerável Node.js/Express como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (GitHub Actions) que bloqueia merge em vulnerabilidades críticas
-- **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — testes de contrato de API REST pública com Robot Framework + RequestsLibrary, validação de schema (JSON Schema), relatório Allure, CI/CD
-- **[robot-playwright-e2e-tests](https://github.com/moiseschiaretto/robot-playwright-e2e-tests)** — testes E2E com Robot Framework + Browser Library (Playwright), BDD nativo (Given/When/Then), site SauceDemo, relatório Allure, CI/CD.
-Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
----
-## 📫 Contato
-- LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
-- E-mail: [moiseschiaretto@gmail.com](mailto:moiseschiaretto@gmail.com)
-- Curitiba, PR — Disponível para novas oportunidades remotas
+- **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express)
