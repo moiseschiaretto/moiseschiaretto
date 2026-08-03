@@ -9,7 +9,7 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 ---
 
 ## 🧰 Stack principal
-* **Back-end (API REST):** Playwright, Rest Assured (Java), Python (requests), Supertest+Jest, Robot Framework (RequestsLibrary) com BDD nativo (Given, When, Then) — testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), múltiplos métodos HTTP, validação de status codes, Swagger, OpenAPI
+* **Back-end (API REST):** Playwright, Rest Assured (Java), Python (requests), Supertest+Jest, Robot Framework (RequestsLibrary) com BDD em Gherkin nativo (Given, When, Then) — testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), múltiplos métodos HTTP, validação de status codes, Swagger, OpenAPI
 * **Front-end (Web):** Playwright, Robot Framework (Browser Library) — E2E, responsivo (Desktop, Tablet, Mobile, iPhone), Page Object Model
 * **Mobile:** Appium (Python, pytest), UiAutomator2, Page Object Model, Allure
 * **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real; monitoramento de Core Web Vitals (LCP, CLS, INP) via Playwright
@@ -31,7 +31,7 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com Appium + Python (pytest), Page Object Model e relatórios Allure/HTML
 - **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com OWASP ZAP, app vulnerável Node.js/Express como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (GitHub Actions) que bloqueia merge em vulnerabilidades críticas
 - **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — Framework de testes de contrato de API REST (DummyJSON) em Robot Framework, estendido com libraries Python próprias para validação de schema JSON e comparação de dados request/response. 17 cenários cobrindo múltiplos métodos e status HTTP, com relatórios Allure e pipeline CI/CD
-- **[robot-playwright-e2e-tests](https://github.com/moiseschiaretto/robot-playwright-e2e-tests)** — testes E2E com Robot Framework + Browser Library (Playwright), BDD nativo (Given/When/Then), site SauceDemo, relatório Allure, CI/CD
+- ** [robot-playwright-e2e-tests](https://github.com/moiseschiaretto/robot-playwright-e2e-tests)** — testes E2E com Robot Framework + Browser Library (Playwright), BDD em Gherkin nativo (Given, When, Then), site SauceDemo, relatório Allure, CI/CD
 
 Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
 
