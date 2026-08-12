@@ -1,6 +1,6 @@
 ## Olá, meu nome é Moisés Chiaretto!
 
-QA Sênior | Test Automation Engineer (SDET), com mais de 17 anos de experiência em Qualidade de Software — sendo os últimos 8 anos com foco forte em automação de testes seguindo a pirâmide de testes (back-end, front-end, mobile, performance, carga e segurança).
+QA Sênior | Test Automation Engineer (SDET) — automação end-to-end, mensageria (Kafka), contratos de API, performance e segurança, cobrindo toda a pirâmide de testes (back-end, front-end, mobile, performance, carga e segurança).
 
 Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios, aplicando engenharia de prompt (**Prompt Engineering**).
 
