@@ -24,8 +24,8 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 
 ## 📌 Portfólio em destaque
 - **[java-messaging-idempotency-tests](https://github.com/moiseschiaretto/java-messaging-idempotency-tests)** — testes de integração para mensageria (Kafka), cache (Redis) e persistência (PostgreSQL/Hibernate) com Spring Boot, cobrindo idempotência, reprocessamento e Dead Letter Queue (DLQ); relatórios Allure e evidências de execução completas
-- **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
 - **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em Java, Rest Assured + TestNG, validação de schema (JSON Schema), relatório customizado + Allure
+- **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop, mobile, tablet, iPhone) com Page Object Model e TypeScript
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (Node.js + Express) para testes de carga com dashboard web em tempo real
