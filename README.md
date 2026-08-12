@@ -10,18 +10,20 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 
 ## 🧰 Stack principal
 * **Back-end (API REST):** Playwright, Rest Assured (Java), Python (requests), Supertest+Jest, Robot Framework (RequestsLibrary) com BDD em Gherkin nativo (Given, When, Then) — testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), múltiplos métodos HTTP, validação de status codes, Swagger, OpenAPI
+* **Mensageria & Cache:** Apache Kafka (KRaft), Redis — idempotência, reprocessamento, Dead Letter Queue (DLQ), consistência cache-aside
 * **Front-end (Web):** Playwright, Robot Framework (Browser Library) — E2E, responsivo (Desktop, Tablet, Mobile, iPhone), Page Object Model
 * **Mobile:** Appium (Python, pytest), UiAutomator2, Page Object Model, Allure
 * **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real; monitoramento de Core Web Vitals (LCP, CLS, INP) via Playwright
 * **Segurança (DAST):** OWASP ZAP — testes de vulnerabilidades (SQL Injection, XSS, IDOR, autenticação fraca), pipeline CI/CD bloqueando merge em achados críticos
 * **Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
-* **DevOps & CI/CD:** GitHub Actions, Docker, Git, GitLab
+* **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, GitLab
 * **Gestão de Testes & Ágil:** Jira (API REST), Looker Studio (dashboards de KPIs)
 * **Normas:** conhecimento de ISTQB, aderência a IEEE 29119, CMMI e ISO/IEC 25010
 
 ---
 
 ## 📌 Portfólio em destaque
+- **[java-messaging-idempotency-tests](https://github.com/moiseschiaretto/java-messaging-idempotency-tests)** — testes de integração para mensageria (Kafka), cache (Redis) e persistência (PostgreSQL/Hibernate) com Spring Boot, cobrindo idempotência, reprocessamento e Dead Letter Queue (DLQ); relatórios Allure e evidências de execução completas
 - **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
 - **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em Java, Rest Assured + TestNG, validação de schema (JSON Schema), relatório customizado + Allure
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop, mobile, tablet, iPhone) com Page Object Model e TypeScript
