@@ -31,9 +31,9 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 Além da automação tradicional, apliquei IA generativa como arquitetura de teste, não apenas como ferramenta de produtividade:
 
 **AI-First aplicado como arquitetura:**
-- **ai-qa-agent-rest-tester** *(repositório privado — solicite acesso via moiseschiaretto@gmail.com)* — agente de QA que gera, executa e analisa causa raiz de testes de API em tempo real, via LLM (Gemini/Claude), com Skills, Prompt Registry e abertura automática de issues no GitHub via MCP.
+- **ai-qa-agent-rest-tester (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — agente de QA que gera, executa e analisa causa raiz de testes de API em tempo real, via LLM (Gemini/Claude), com Skills, Prompt Registry e abertura automática de issues no GitHub via MCP.
 
-- **[ai-swagger-to-playwright-generator](https://github.com/moiseschiaretto/ai-swagger-to-playwright-generator)** *(repositório privado — solicite acesso via moiseschiaretto@gmail.com)* — gerador de suítes de testes de contrato Playwright a partir de qualquer especificação Swagger/OpenAPI, usando IA (Gemini/Claude) com Skills, Prompt Registry e integração MCP. 48/48 testes de contrato gerados automaticamente e validados contra API real.
+- **[ai-swagger-to-playwright-generator](https://github.com/moiseschiaretto/ai-swagger-to-playwright-generator) (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — gerador de suítes de testes de contrato Playwright a partir de qualquer especificação Swagger/OpenAPI, usando IA (Gemini/Claude) com Skills, Prompt Registry e integração MCP. 48/48 testes de contrato gerados automaticamente e validados contra API real.
 
 **Automação de testes — base sólida:**
 - **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
