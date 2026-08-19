@@ -36,8 +36,6 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[ai-swagger-to-playwright-generator](https://github.com/moiseschiaretto/ai-swagger-to-playwright-generator)** *(repositório privado — solicite acesso via moiseschiaretto@gmail.com)* — gerador de suítes de testes de contrato Playwright a partir de qualquer especificação Swagger/OpenAPI, usando IA (Gemini/Claude) com Skills, Prompt Registry e integração MCP. 48/48 testes de contrato gerados automaticamente e validados contra API real.
 
 **Automação de testes — base sólida:**
-
-**Automação de testes — base sólida:**
 - **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (Joi), CI/CD
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop, mobile, tablet, iPhone) com Page Object Model e TypeScript
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
