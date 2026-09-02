@@ -1,12 +1,22 @@
-
 ## Olá, meu nome é Moisés Chiaretto!
 
 QA Sênior | Test Automation Engineer (SDET) — automação end-to-end, mensageria (Kafka), contratos de API, performance e segurança, cobrindo toda a pirâmide de testes (back-end, front-end, mobile, performance, carga e segurança).
 
-Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios, aplicando engenharia de prompt (**Prompt Engineering**). **Em formação continuada via Especialização em Inteligência Artificial Generativa Aplicada pela UTFPR — 360h.** **Cursando também 
-Técnico em Eletrônica (Eletrônica e Automação) pela ESCOLA POLITÉCNICA BRASILEIRA — 1.440h, reconhecido MEC/SISTEC (Habilitação CFT/CRT).**
+Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT no dia a dia para acelerar geração de cenários, automação e testes exploratórios, aplicando engenharia de prompt (**Prompt Engineering**).
 
 📍 Curitiba - PR | 🔗 [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
+
+---
+
+## 🎓 Formação em andamento
+- **UTFPR** — Especialização em Inteligência Artificial Generativa Aplicada (360h)
+- **UNIVERSIDADE CIMATEC - SENAI** — Especialização em Robótica e Sistemas Autônomos (360h)
+- **ESCOLA POLITÉCNICA BRASILEIRA** — Técnico em Eletrônica e Automação, 1.440h, Reconhecido MEC/SISTEC — Habilitação CFT/CRT
+
+## 🎓 Formação concluída
+- **UTFPR** — Especialista em Tecnologia Java, TI (2007 – 2009, 380h)
+- **FACET** — Bacharel em Tecnologia em Processamento de Dados, TI (2002 – 2006, 2.940h)
+- **SESC da Esquina** — Robótica e Eletrônica Prática (2023, 48h)
 
 ---
 
