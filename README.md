@@ -14,9 +14,9 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 - **ESCOLA POLITÉCNICA BRASILEIRA** — Técnico em Eletrônica e Automação (1.440 h), Reconhecido MEC/SISTEC — Habilitação CFT/CRT
 
 ## 🎓 Formação concluída
-- **UTFPR** — Especialista em Tecnologia Java, TI (2007 – 2009, 380h)
-- **FACET** — Bacharel em Tecnologia em Processamento de Dados, TI (2002 – 2006, 2.940h)
-- **SESC da Esquina** — Robótica e Eletrônica Prática (2023, 48h)
+- **UTFPR** — Especialista em Tecnologia Java, TI (2007 – 2009, 380 h)
+- **FACET** — Bacharel em Tecnologia em Processamento de Dados, TI (2002 – 2006, 2.940 h)
+- **SESC da Esquina** — Robótica e Eletrônica Prática (2023, 48 h)
 
 ---
 
