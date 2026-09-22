@@ -9,9 +9,9 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 ---
 
 ## 🎓 Formação em andamento
-- **UTFPR** — Especialização em Inteligência Artificial Generativa Aplicada (360h)
-- **UNIVERSIDADE CIMATEC - SENAI** — Especialização em Robótica e Sistemas Autônomos (360h)
-- **ESCOLA POLITÉCNICA BRASILEIRA** — Técnico em Eletrônica e Automação (1.440h), Reconhecido MEC/SISTEC — Habilitação CFT/CRT
+- **UTFPR** — Especialização em Inteligência Artificial Generativa Aplicada (360 h)
+- **UNIVERSIDADE CIMATEC - SENAI** — Especialização em Robótica e Sistemas Autônomos (360 h)
+- **ESCOLA POLITÉCNICA BRASILEIRA** — Técnico em Eletrônica e Automação (1.440 h), Reconhecido MEC/SISTEC — Habilitação CFT/CRT
 
 ## 🎓 Formação concluída
 - **UTFPR** — Especialista em Tecnologia Java, TI (2007 – 2009, 380h)
