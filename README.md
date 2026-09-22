@@ -16,7 +16,11 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 ## 🎓 Formação concluída
 - **UTFPR** — Especialista em Tecnologia Java, TI (2007 – 2009, 380 h)
 - **FACET** — Bacharel em Tecnologia em Processamento de Dados, TI (2002 – 2006, 2.940 h)
-- **SESC da Esquina** — Robótica e Eletrônica Prática (2023, 48 h)
+
+## 📚 Cursos Complementares & Certificações
+- English for Tech: Comunicação Técnica e Corporativa — Meta B2/C1 (Em andamento)
+- Corporação SF: Fundamentos e Desenvolvimento no Ecossistema Salesforce - CRM (Em andamento)
+- SESC da Esquina: Robótica e Eletrónica Prática (2023, 48 h)
 
 ---
 
