@@ -30,7 +30,7 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 * **Mobile:** Appium (Python, pytest), UiAutomator2, Page Object Model, Allure
 * **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real; monitoramento de Core Web Vitals (LCP, CLS, INP) via Playwright
 * **Segurança (DAST):** OWASP ZAP — testes de vulnerabilidades (SQL Injection, XSS, IDOR, autenticação fraca), pipeline CI/CD bloqueando merge em achados críticos
-* **Linguagens:** Java, Python, JavaScript, TypeScript, Node.js
+* **Linguagens:** Java, C#, Python, JavaScript, TypeScript, Node.js
 * **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, GitLab
 * **Gestão de Testes & Ágil:** Jira (API REST), Looker Studio (dashboards de KPIs)
 * **Normas:** conhecimento de ISTQB, aderência a IEEE 29119, CMMI e ISO/IEC 25010
