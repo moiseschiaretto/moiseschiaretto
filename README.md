@@ -49,7 +49,7 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[java-messaging-idempotency-tests](https://github.com/moiseschiaretto/java-messaging-idempotency-tests)** — testes de integração para mensageria (**Kafka**), cache (**Redis**) e persistência (**PostgreSQL/Hibernate**) com **Spring Boot**, cobrindo idempotência, reprocessamento e Dead Letter Queue (DLQ); relatórios **Allure** e evidências de execução completas
 
 ### 🔌 Back-end — APIs
-- **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública, validação de schema (**Joi**), CI/CD
+- **[playwright-public-api-contract-tests](https://github.com/moiseschiaretto/playwright-public-api-contract-tests)** — testes de contrato de API REST pública com **Playwright** e **TypeScript**, validação de schema com **Joi** e pipeline CI/CD no **GitHub Actions**
 - **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em **Java**, **Rest Assured** + **TestNG**, validação de schema (**JSON Schema**), relatório customizado + **Allure**
 - **[csharp-playwright-api-contract-tests](https://github.com/moiseschiaretto/csharp-playwright-api-contract-tests)** — testes de API REST em **C#** com **Playwright (.NET)** e **NUnit**: validação de schema e de contrato, múltiplos status HTTP (200, 201, 400, 401, 404), token automático, logs de execução, relatórios **Allure** e HTML, CI/CD
 - **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — Framework de testes de contrato de API REST (DummyJSON) em **Robot Framework**, estendido com libraries **Python** próprias para validação de schema JSON e comparação de dados request/response. 17 cenários cobrindo múltiplos métodos e status HTTP, com relatórios **Allure** e pipeline CI/CD
@@ -63,10 +63,10 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com **Appium** + **Python (pytest)**, **Page Object Model** e relatórios **Allure**/HTML
 
 ### ⚡ Performance
-- **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP)
+- **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP) e do tempo total de carregamento (Full Load) com **Playwright** e **JavaScript (Node.js)**, coleta via **PerformanceObserver**, relatório HTML próprio e execução semanal no **GitHub Actions**
 
 ### 📈 Carga
-- **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria (**Node.js** + **Express**) para testes de carga com dashboard web em tempo real
+- **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria de testes de carga em APIs HTTP com **k6**, desenvolvida em **JavaScript (Node.js)** + **Express**: gera o script a partir de comandos curl, transmite a execução ao vivo para o navegador via **Server-Sent Events (SSE)** e exibe dashboard web em tempo real, com smoke test no **GitHub Actions**
 
 ### 🔒 Segurança
 - **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com **OWASP ZAP**, app vulnerável **Node.js/Express** como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (**GitHub Actions**) que bloqueia merge em vulnerabilidades críticas
