@@ -64,7 +64,7 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com **Appium** + **Python (pytest)**, **Page Object Model** e relatórios **Allure**/HTML
 
 ### ⚡ Performance
-- **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP) e do tempo total de carregamento (Full Load) com **Playwright** e **JavaScript (Node.js)**, coleta via **PerformanceObserver**, relatório HTML próprio e execução semanal no **GitHub Actions**
+- **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP), com os limites oficiais definidos pelo Google (LCP até 2,5 s, CLS até 0,1, INP até 200 ms), e do tempo total de carregamento (Full Load) com **Playwright** e **JavaScript (Node.js)**, coleta via **PerformanceObserver**, relatório HTML próprio e execução semanal no **GitHub Actions**
 
 ### 📈 Carga
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria de testes de carga em APIs HTTP com **k6**, desenvolvida em **JavaScript (Node.js)** + **Express**: gera o script a partir de comandos curl, transmite a execução ao vivo para o navegador via **Server-Sent Events (SSE)** e exibe dashboard web em tempo real, com smoke test no **GitHub Actions**
