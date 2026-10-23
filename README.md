@@ -25,7 +25,7 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 ## 🧰 Stack principal
 * **IA Aplicada a QA (AI-First Engineering):** LLMs (Gemini, Claude), engenharia de prompt, Skills reutilizáveis, Prompt Registry (auditoria de gerações), MCP (Model Context Protocol) para integração com GitHub — geração e execução de testes assistida por IA
 * **Mensageria & Cache:** Apache Kafka (KRaft), Redis — idempotência, reprocessamento, Dead Letter Queue (DLQ), consistência cache-aside
-* **Back-end (API REST):** Playwright (TypeScript, JavaScript), Cypress (JavaScript), Rest Assured (Java), Python (requests), Supertest e Jest (JavaScript), Robot Framework (Python, RequestsLibrary) com BDD em Gherkin nativo (Given, When, Then) — testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), validação de CRUD, múltiplos métodos e status HTTP, Swagger, OpenAPI
+* **Back-end (API REST):** Playwright (TypeScript, JavaScript), Cypress (JavaScript), Rest Assured (Java), Python (requests), Supertest e Jest (JavaScript), Robot Framework (Python, RequestsLibrary) com BDD em Gherkin nativo (Given, When, Then) — padrão Page Object aplicado a APIs (Service Object), testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), validação de CRUD, múltiplos métodos e status HTTP, Swagger, OpenAPI
 * **Front-end (Web):** Playwright (TypeScript, JavaScript), Cypress (JavaScript), Robot Framework (Python, Browser Library) — E2E, responsivo (Desktop, Tablet, Mobile, iPhone), Page Object Model
 * **Mobile:** Appium (Python, pytest), UiAutomator2, Page Object Model, Allure
 * **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real; monitoramento de Core Web Vitals (LCP, CLS, INP) via Playwright
