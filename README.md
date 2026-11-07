@@ -66,6 +66,9 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 ### 📱 Mobile
 - **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com **Appium** + **Python (pytest)**, **Page Object Model** e relatórios **Allure**/HTML
 
+### Geração de Massa de Dados
+* [python-selenium-synthetic-data-generator](https://github.com/moiseschiaretto/python-selenium-synthetic-data-generator) — gerador de massa de dados sintéticos para testes de software, desenvolvido em **Python** com **Selenium WebDriver** e **Page Object**: coleta pessoas fictícias do **4devs**, valida o CPF, evita duplicidade e grava em **.csv** (Excel) e **.txt** (importação em banco de dados), com execução interativa, opção de gerar nova massa ou adicionar à atual e conformidade com a **LGPD**
+
 ### ⚡ Performance
 - **[playwright-web-vitals-monitor](https://github.com/moiseschiaretto/playwright-web-vitals-monitor)** — monitoramento de Core Web Vitals (LCP, CLS, INP), com os limites oficiais definidos pelo Google (LCP até 2,5 s, CLS até 0,1, INP até 200 ms), e do tempo total de carregamento (Full Load) com **Playwright** e **JavaScript (Node.js)**, coleta via **PerformanceObserver**, relatório HTML próprio e execução semanal no **GitHub Actions**
 
