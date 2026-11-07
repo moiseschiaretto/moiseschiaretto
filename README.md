@@ -58,8 +58,8 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — Framework de testes de contrato de API REST (DummyJSON) em **Robot Framework**, estendido com libraries **Python** próprias para validação de schema JSON e comparação de dados request/response. 17 cenários cobrindo múltiplos métodos e status HTTP, com relatórios **Allure** e HTML e pipeline CI/CD
 
 ### 🖥️ Front-end — E2E
-- **[cypress-playwright-bdd-e2e](https://github.com/moiseschiaretto/cypress-playwright-bdd-e2e)** — testes E2E com BDD (**Cucumber/Gherkin**): os mesmos cenários executados no **Cypress** e no **Playwright**, em **JavaScript (Node.js)**, com relatórios **Allure** e CI no **GitHub Actions**
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop, mobile, tablet, iPhone) com **Page Object Model** e **TypeScript**
+- **[cypress-playwright-bdd-e2e](https://github.com/moiseschiaretto/cypress-playwright-bdd-e2e)** — testes E2E com BDD (**Cucumber/Gherkin**): os mesmos cenários executados no **Cypress** e no **Playwright**, em **JavaScript (Node.js)**, com relatórios **Allure** e CI no **GitHub Actions**
 - **[robot-playwright-e2e-tests](https://github.com/moiseschiaretto/robot-playwright-e2e-tests)** — testes E2E com **Robot Framework** + **Browser Library (Playwright)**, BDD em **Gherkin** nativo (Given, When, Then), site SauceDemo, relatório **Allure**, CI/CD
 
 ### 📱 Mobile
