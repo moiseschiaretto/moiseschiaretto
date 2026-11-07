@@ -84,4 +84,4 @@ Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
 ## 📫 Contato
 - LinkedIn: [linkedin.com/in/moiseschiaretto](https://www.linkedin.com/in/moiseschiaretto)
 - E-mail: [moiseschiaretto@gmail.com](mailto:moiseschiaretto@gmail.com)
-- Curitiba, PR — Disponível para novas oportunidades remotas
+- Curitiba, PR
