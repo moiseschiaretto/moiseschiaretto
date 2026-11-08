@@ -26,14 +26,15 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 * **IA Aplicada a QA (AI-First Engineering):** LLMs (Gemini, Claude), engenharia de prompt, Skills reutilizáveis, Prompt Registry (auditoria de gerações), MCP (Model Context Protocol) para integração com GitHub — geração e execução de testes assistida por IA
 * **Mensageria & Cache:** Apache Kafka (KRaft), Redis — idempotência, reprocessamento, Dead Letter Queue (DLQ), consistência cache-aside
 * **Back-end (API REST):** Playwright (TypeScript, JavaScript, C#), Cypress (JavaScript), Pytest (Python, Requests), Rest Assured e TestNG (Java), Supertest e Jest (JavaScript), NUnit (C#), Robot Framework (Python, RequestsLibrary) com BDD em Gherkin nativo (Given, When, Then) — padrão Page Object aplicado a APIs (Service Object), testes de contrato em arquitetura de microsserviços (Joi, JSON Schema), validação de CRUD, múltiplos métodos e status HTTP, Swagger, OpenAPI
-* **Front-end (Web):** Playwright (TypeScript, JavaScript), Cypress (JavaScript), Robot Framework (Python, Browser Library) — E2E, responsivo (Desktop, Tablet, Mobile, iPhone), Page Object Model
-* **Mobile:** Appium (Python, pytest), UiAutomator2, Page Object Model, Allure
-* **Performance:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real; monitoramento de Core Web Vitals (LCP, CLS, INP) via Playwright
+* **Front-end (Web):** Playwright (TypeScript, JavaScript), Cypress (JavaScript), Pytest e Selenium WebDriver (Python), Robot Framework (Python, Browser Library), Cucumber (BDD, Gherkin) — E2E, responsivo (Desktop, Tablet, Mobile, iPhone), Page Object Model
+* **Mobile:** Appium (Python, pytest), UiAutomator2, Maestro, Page Object Model, Allure
+* **Massa de Dados:** Faker (Python), Selenium WebDriver (Python) — dados sintéticos com validação de CPF, controle de duplicidade e conformidade com a LGPD
+* **Performance:** Playwright (JavaScript) — monitoramento de Core Web Vitals (LCP, CLS, INP) e do tempo total de carregamento (Full Load)
+* **Carga:** k6 — testes de carga e stress, com CI/CD e dashboard em tempo real
 * **Segurança (DAST):** OWASP ZAP — testes de vulnerabilidades (SQL Injection, XSS, IDOR, autenticação fraca), pipeline CI/CD bloqueando merge em achados críticos
 * **Linguagens:** Java, C#, Python, JavaScript, TypeScript, Node.js
-* **Frameworks de Teste:** Playwright (TypeScript, JavaScript, C#), Cypress (JavaScript), Pytest (Python), Supertest e Jest (JavaScript), Rest Assured e TestNG (Java), NUnit (C#), Robot Framework (Python), Appium (Python), Maestro, Selenium, Cucumber (BDD, Gherkin)
 * **DevOps & CI/CD:** GitHub Actions, Docker, Docker Compose, Git, GitLab
-* **Gestão de Testes & Ágil:** Jira (API REST), Looker Studio (dashboards de KPIs)
+* **Gestão de Testes & Ágil:** Jira (API REST), relatórios HTML de KPIs e exportação CSV
 * **Normas:** conhecimento de ISTQB, aderência a IEEE 29119, CMMI e ISO/IEC 25010
 
 ---
@@ -43,11 +44,11 @@ Diferencial em abordagem **QAOps & AI-First**: uso Claude Code, Claude e ChatGPT
 Além da automação tradicional, apliquei IA generativa como arquitetura de teste, não apenas como ferramenta de produtividade.
 
 ### 🤖 IA — geração automática de suítes de testes (LLM + MCP)
-- **[ai-swagger-to-playwright-generator](https://github.com/moiseschiaretto/ai-swagger-to-playwright-generator) (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — gerador de suítes de testes de contrato **Playwright** a partir da URL de qualquer especificação **Swagger/OpenAPI**, usando IA (**Gemini/Claude**) com Skills, Prompt Registry e integração **MCP**. 48/48 testes de contrato gerados automaticamente e validados contra API real.
-- **ai-qa-agent-rest-tester (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — agente de QA que gera, executa e analisa causa raiz de testes de API em tempo real, via LLM (**Gemini/Claude**), com Skills, Prompt Registry e abertura automática de issues no **GitHub** via **MCP**.
+- **[ai-swagger-to-playwright-generator](https://github.com/moiseschiaretto/ai-swagger-to-playwright-generator) (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — gerador de suítes de testes de contrato **Playwright** a partir da URL de qualquer especificação **Swagger** e **OpenAPI**, usando IA (**Gemini** e **Claude**) com Skills, Prompt Registry e integração **MCP**. 48/48 testes de contrato gerados automaticamente e validados contra API real.
+- **ai-qa-agent-rest-tester (repositório privado — solicite acesso via moiseschiaretto@gmail.com)** — agente de QA que gera, executa e analisa causa raiz de testes de API em tempo real, via LLM (**Gemini** e **Claude**), com Skills, Prompt Registry e abertura automática de issues no **GitHub** via **MCP**.
 
 ### 📨 Mensageria — Sistemas Distribuídos (Kafka)
-- **[java-messaging-idempotency-tests](https://github.com/moiseschiaretto/java-messaging-idempotency-tests)** — testes de integração para mensageria (**Kafka**), cache (**Redis**) e persistência (**PostgreSQL/Hibernate**) com **Spring Boot**, cobrindo idempotência, reprocessamento e Dead Letter Queue (DLQ); relatórios **Allure** e evidências de execução completas
+- **[java-messaging-idempotency-tests](https://github.com/moiseschiaretto/java-messaging-idempotency-tests)** — testes de integração para mensageria (**Kafka**), cache (**Redis**) e persistência (**PostgreSQL** e **Hibernate**) com **Spring Boot**, cobrindo idempotência, reprocessamento e Dead Letter Queue (DLQ); relatórios **Allure** e evidências de execução completas
 
 ### 🔌 Back-end — APIs
 - **[pytest-public-api-contract-tests](https://github.com/moiseschiaretto/pytest-public-api-contract-tests)** — testes de contrato de API REST pública com **Pytest** e **Python** (**Requests**), padrão **Page Object** aplicado a APIs (Service Object) com os métodos POST, GET, PUT, PATCH e DELETE, JSON Request e JSON Response em arquivos, 55 cenários com múltiplos status HTTP, validação de schema com **JSON Schema**, logs de execução e relatórios **Allure** e HTML
@@ -55,16 +56,16 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[java-api-rest-assured-contract-tests](https://github.com/moiseschiaretto/java-api-rest-assured-contract-tests)** — testes de contrato de API REST em **Java**, **Rest Assured** + **TestNG**, múltiplos métodos e status HTTP, validação de schema (**JSON Schema**), relatório customizado + **Allure**
 - **[cypress-playwright-api-tests](https://github.com/moiseschiaretto/cypress-playwright-api-tests)** — testes de API REST com **Cypress** e **Playwright** em **JavaScript (Node.js)**: 66 cenários cobrindo dados, schema, contrato, autenticação **JWT**, CRUD com múltiplos métodos e status HTTP (200, 201, 400, 401, 404 e 500), relatórios **Allure** e HTML, e CI no **GitHub Actions**
 - **[csharp-playwright-api-contract-tests](https://github.com/moiseschiaretto/csharp-playwright-api-contract-tests)** — testes de API REST em **C#** com **Playwright (.NET)** e **NUnit**: validação de schema e de contrato, múltiplos métodos e status HTTP, token automático, logs de execução, relatórios **Allure** e HTML, CI/CD
-- **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — Framework de testes de contrato de API REST (DummyJSON) em **Robot Framework**, estendido com libraries **Python** próprias para validação de schema JSON e comparação de dados request/response. 17 cenários cobrindo múltiplos métodos e status HTTP, com relatórios **Allure** e HTML e pipeline CI/CD
+- **[robot-api-contract-tests](https://github.com/moiseschiaretto/robot-api-contract-tests)** — Framework de testes de contrato de API REST (DummyJSON) em **Robot Framework**, estendido com libraries **Python** próprias para validação de schema JSON e comparação de dados entre request e response. 17 cenários cobrindo múltiplos métodos e status HTTP, com relatórios **Allure** e HTML e pipeline CI/CD
 
 ### 🖥️ Front-end — E2E
 - **[pytest-selenium-frontend-e2e-tests](https://github.com/moiseschiaretto/pytest-selenium-frontend-e2e-tests)** — testes E2E de front-end com **Python**, **Pytest** e **Selenium WebDriver**, multi-dispositivo e responsivo (desktop, smartphone, tablet e iPhone 17), **Page Object Model**, validação de tela (URL, título e componentes), 82 testes em execução paralela, relatórios **Allure** e HTML e CI/CD no **GitHub Actions**
 - **[playwright-frontend-e2e-tests](https://github.com/moiseschiaretto/playwright-frontend-e2e-tests)** — testes E2E responsivos (desktop, mobile, tablet, iPhone) com **Page Object Model** e **TypeScript**
-- **[cypress-playwright-bdd-e2e](https://github.com/moiseschiaretto/cypress-playwright-bdd-e2e)** — testes E2E com BDD (**Cucumber/Gherkin**): os mesmos cenários executados no **Cypress** e no **Playwright**, em **JavaScript (Node.js)**, com relatórios **Allure** e CI no **GitHub Actions**
+- **[cypress-playwright-bdd-e2e](https://github.com/moiseschiaretto/cypress-playwright-bdd-e2e)** — testes E2E com BDD (**Cucumber** e **Gherkin**): os mesmos cenários executados no **Cypress** e no **Playwright**, em **JavaScript (Node.js)**, com relatórios **Allure** e CI no **GitHub Actions**
 - **[robot-playwright-e2e-tests](https://github.com/moiseschiaretto/robot-playwright-e2e-tests)** — testes E2E com **Robot Framework** + **Browser Library (Playwright)**, BDD em **Gherkin** nativo (Given, When, Then), site SauceDemo, relatório **Allure**, CI/CD
 
 ### 📱 Mobile
-- **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com **Appium** + **Python (pytest)**, **Page Object Model** e relatórios **Allure**/HTML
+- **[mobile-python-appium-yodapp](https://github.com/moiseschiaretto/mobile-python-appium-yodapp)** — automação mobile Android com **Appium** + **Python (pytest)**, **Page Object Model** e relatórios **Allure** e HTML
 
 ### 🗃️ Massa de Dados
 - **[python-selenium-synthetic-data-generator](https://github.com/moiseschiaretto/python-selenium-synthetic-data-generator)** — gerador de massa de dados sintéticos para testes de software, desenvolvido em **Python** com **Selenium WebDriver** e **Page Object**: coleta pessoas fictícias do **4devs**, valida o CPF, evita duplicidade e grava em **.csv** (Excel) e **.txt** (importação em banco de dados), com execução interativa, opção de gerar nova massa ou adicionar à atual e conformidade com a **LGPD**
@@ -77,12 +78,12 @@ Além da automação tradicional, apliquei IA generativa como arquitetura de tes
 - **[k6-web-runner](https://github.com/moiseschiaretto/k6-web-runner)** — ferramenta própria de testes de carga em APIs HTTP com **k6**, desenvolvida em **JavaScript (Node.js)** + **Express**: gera o script a partir de comandos curl, transmite a execução ao vivo para o navegador via **Server-Sent Events (SSE)** e exibe dashboard web com monitoramento em tempo real de latência, tráfego e erros (**Four Golden Signals** do **Google SRE**), com smoke test no **GitHub Actions**
 
 ### 🔒 Segurança
-- **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com **OWASP ZAP**, app vulnerável **Node.js/Express** como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (**GitHub Actions**) que bloqueia merge em vulnerabilidades críticas
+- **[security-dast-leasing-demo](https://github.com/moiseschiaretto/security-dast-leasing-demo)** — automação de testes de segurança (DAST) com **OWASP ZAP**, app vulnerável **Node.js** e **Express** como alvo, interface web para diagnóstico em tempo real e pipeline CI/CD (**GitHub Actions**) que bloqueia merge em vulnerabilidades críticas
 
 ### 📊 Gestão de Testes & KPIs
-- **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do **Jira** via API REST, relatório HTML e exportação CSV
+- **[jira-kpi-dashboard-sync](https://github.com/moiseschiaretto/jira-kpi-dashboard-sync)** — sincronização de KPIs do **Jira** via API REST com **JavaScript (Node.js)**, relatório HTML e exportação CSV
 
-Todos os repositórios têm pipeline de CI/CD via GitHub Actions.
+Os repositórios de automação de testes têm pipeline de CI/CD via GitHub Actions.
 
 ---
 
